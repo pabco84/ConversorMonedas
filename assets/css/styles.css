@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(25, 24, 24);
+    color: aliceblue;
+    text-align: center;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    text-align: center;
+    background-color: rgb(110, 123, 125);
+    padding: 0.1%;
+  }
+
+.button {
+    background-color: rgb(60, 171, 208);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
